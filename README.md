@@ -1,4 +1,4 @@
-````markdown
+
 # Cryptolib: Python Cryptography Library
 
 Welcome to **Cryptolib**, a lightweight and efficient Python cryptography library that implements several popular encryption and decryption algorithms. Whether you're a beginner or an expert in cryptography, **Cryptolib** is designed to make cryptography easy and accessible with minimal dependencies.
